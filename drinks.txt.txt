@@ -1,3 +1,9 @@
 milk
 coffee
 tea
+coconut 
+juice
+wine
+coke
+water
+apple juice

@@ -1,4 +1,9 @@
-apple
+pineapple
 chess
 orange
-
+banana
+pear
+lemon
+watermelon
+peach
+grape
